@@ -12,7 +12,6 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Research-success?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Architecture-Modular-orange?style=for-the-badge)
 ![API](https://img.shields.io/badge/API-REST-informational?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
 </p>
 
@@ -264,11 +263,6 @@ If this project contributes to your research, please consider citing the reposit
 
 ---
 
-# License
-
-This project is distributed under the **MIT License**.
-
----
 
 <div align="center">
 
